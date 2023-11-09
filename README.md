@@ -1,7 +1,6 @@
 # Networking
 ## Network Configuration Labs
 ### Configure Router Interfaces
-
 	- Configure IPv4 Addressing and Verify Connectivity
 	- Configure IPv6 Addressing and Verify Connectivity
 	
