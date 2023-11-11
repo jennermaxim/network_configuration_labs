@@ -22,3 +22,8 @@
 	
 ### Inter-VLAN Routing Challenge
 	In this activity, there is a demonstration and reinforcement for the ability to impliment inter-VLAN routing, including configuring IP addresses, VLANs, trunking, and subinterfaces.
+
+### Implement DHCPv4
+	- Configure a Router as a DHCP Server
+	- Configure DHCP Relay
+	- Configure a Router as a DHCP Client
