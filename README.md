@@ -27,3 +27,7 @@
 	- Configure a Router as a DHCP Server
 	- Configure DHCP Relay
 	- Configure a Router as a DHCP Client
+
+### Basic Configuration on Review
+	- Configure Devices and Verify Connectivity
+		- Configure the PC interfaces
